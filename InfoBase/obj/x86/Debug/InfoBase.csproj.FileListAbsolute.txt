@@ -1,0 +1,39 @@
+c:\users\administrator\documents\visual studio 2010\Projects\InfoBase\InfoBase\bin\Debug\InfoBase.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\InfoBase\InfoBase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\InfoBase\InfoBase\obj\x86\Debug\InfoBase.Form1.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\InfoBase\InfoBase\obj\x86\Debug\InfoBase.Form2.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\InfoBase\InfoBase\obj\x86\Debug\InfoBase.Form4.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\InfoBase\InfoBase\obj\x86\Debug\InfoBase.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\InfoBase\InfoBase\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\InfoBase\InfoBase\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\InfoBase\InfoBase\obj\x86\Debug\InfoBase.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\InfoBase\InfoBase\obj\x86\Debug\InfoBase.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\InfoBase\InfoBase\bin\Debug\InfoBase.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\InfoBase\InfoBase\obj\x86\Debug\InfoBase.menuPage.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\InfoBase\InfoBase\obj\x86\Debug\InfoBase.viewProfile.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\InfoBase\InfoBase\obj\x86\Debug\InfoBase.frmTest.resources
+C:\Users\Administrator\Documents\InfoBase\InfoBase\obj\x86\Debug\InfoBase.exe
+C:\Users\Administrator\Documents\InfoBase\InfoBase\obj\x86\Debug\InfoBase.pdb
+C:\Users\Administrator\Documents\InfoBase\InfoBase\bin\Debug\InfoBase.exe
+C:\Users\Administrator\Documents\InfoBase\InfoBase\bin\Debug\InfoBase.pdb
+C:\Users\Administrator\Documents\InfoBase\InfoBase\obj\x86\Debug\InfoBase.Form1.resources
+C:\Users\Administrator\Documents\InfoBase\InfoBase\obj\x86\Debug\InfoBase.Form2.resources
+C:\Users\Administrator\Documents\InfoBase\InfoBase\obj\x86\Debug\InfoBase.menuPage.resources
+C:\Users\Administrator\Documents\InfoBase\InfoBase\obj\x86\Debug\InfoBase.Form4.resources
+C:\Users\Administrator\Documents\InfoBase\InfoBase\obj\x86\Debug\InfoBase.frmTest.resources
+C:\Users\Administrator\Documents\InfoBase\InfoBase\obj\x86\Debug\InfoBase.Properties.Resources.resources
+C:\Users\Administrator\Documents\InfoBase\InfoBase\obj\x86\Debug\InfoBase.viewProfile.resources
+C:\Users\Administrator\Documents\InfoBase\InfoBase\obj\x86\Debug\InfoBase.csproj.GenerateResource.Cache
+E:\InfoBase\InfoBase\obj\x86\Debug\InfoBase.exe
+E:\InfoBase\InfoBase\obj\x86\Debug\InfoBase.pdb
+E:\InfoBase\InfoBase\bin\Debug\InfoBase.exe
+E:\InfoBase\InfoBase\bin\Debug\InfoBase.pdb
+E:\InfoBase\InfoBase\obj\x86\Debug\InfoBase.csprojResolveAssemblyReference.cache
+E:\InfoBase\InfoBase\obj\x86\Debug\InfoBase.Form1.resources
+E:\InfoBase\InfoBase\obj\x86\Debug\InfoBase.Form2.resources
+E:\InfoBase\InfoBase\obj\x86\Debug\InfoBase.menuPage.resources
+E:\InfoBase\InfoBase\obj\x86\Debug\InfoBase.Form4.resources
+E:\InfoBase\InfoBase\obj\x86\Debug\InfoBase.frmTest.resources
+E:\InfoBase\InfoBase\obj\x86\Debug\InfoBase.Properties.Resources.resources
+E:\InfoBase\InfoBase\obj\x86\Debug\InfoBase.viewProfile.resources
+E:\InfoBase\InfoBase\obj\x86\Debug\InfoBase.csproj.GenerateResource.Cache

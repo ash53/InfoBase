@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\InfoBase\bin\Debug\WindowsApplication.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\InfoBase\bin\Debug\WindowsApplication.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\InfoBase\obj\x86\Debug\InfoBase.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\InfoBase\obj\x86\Debug\InfoBase.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\InfoBase\obj\x86\Debug\InfoBase.menuPage.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\InfoBase\obj\x86\Debug\InfoBase.Form4.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\InfoBase\obj\x86\Debug\InfoBase.frmTest.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\InfoBase\obj\x86\Debug\Infobase.InfoBase.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\InfoBase\obj\x86\Debug\InfoBase.viewProfile.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\InfoBase\obj\x86\Debug\Infobase.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\InfoBase\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\InfoBase\obj\x86\Debug\WindowsApplication.pdb

@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{0DA3C0EC-31F8-46DF-AEEA-923FD082FFF3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>WindowsApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>Infobase</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="InfoBase\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoBase\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoBase\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoBase\Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoBase\Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoBase\Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoBase\Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoBase\Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoBase\frmTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoBase\frmTest.Designer.cs">
+      <DependentUpon>frmTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoBase\Program.cs" />
+    <Compile Include="InfoBase\Properties\AssemblyInfo.cs" />
+    <Compile Include="InfoBase\Properties\Resources.Designer.cs" />
+    <Compile Include="InfoBase\Properties\Settings.Designer.cs" />
+    <Compile Include="InfoBase\viewProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoBase\viewProfile.Designer.cs">
+      <DependentUpon>viewProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoBase\xUI\Accordion.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="InfoBase\xUI\Menu.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="InfoBase\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoBase\Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoBase\Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoBase\Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoBase\frmTest.resx">
+      <DependentUpon>frmTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoBase\obj\x86\Debug\InfoBase.Form1.resources" />
+    <EmbeddedResource Include="InfoBase\obj\x86\Debug\InfoBase.Form2.resources" />
+    <EmbeddedResource Include="InfoBase\obj\x86\Debug\InfoBase.Form4.resources" />
+    <EmbeddedResource Include="InfoBase\obj\x86\Debug\InfoBase.frmTest.resources" />
+    <EmbeddedResource Include="InfoBase\obj\x86\Debug\InfoBase.menuPage.resources" />
+    <EmbeddedResource Include="InfoBase\obj\x86\Debug\InfoBase.Properties.Resources.resources" />
+    <EmbeddedResource Include="InfoBase\obj\x86\Debug\InfoBase.viewProfile.resources" />
+    <EmbeddedResource Include="InfoBase\Properties\Resources.resx" />
+    <EmbeddedResource Include="InfoBase\viewProfile.resx">
+      <DependentUpon>viewProfile.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="InfoBase\bin\Debug\Image\image1.png.jpg" />
+    <Content Include="InfoBase\bin\Debug\InfoBase.exe" />
+    <Content Include="InfoBase\bin\Debug\InfoBase.pdb" />
+    <Content Include="InfoBase\bin\Debug\InfoBase.vshost.exe" />
+    <Content Include="InfoBase\bin\Image\image1.png.jpg" />
+    <Content Include="InfoBase\Image\1111.jpg" />
+    <Content Include="InfoBase\Image\4440.jpg" />
+    <Content Include="InfoBase\Image\6705.jpg" />
+    <Content Include="InfoBase\Image\6903.jpg" />
+    <Content Include="InfoBase\Image\693.jpg" />
+    <Content Include="InfoBase\Image\77709.jpg" />
+    <Content Include="InfoBase\Image\999.jpg" />
+    <Content Include="InfoBase\Image\aaaaaa.jpg" />
+    <Content Include="InfoBase\Image\black-low-temperature-glass-enamel-8701.jpg.jpg" />
+    <Content Include="InfoBase\Image\business-d-concept-teamwork-free-79002.jpg.jpg" />
+    <Content Include="InfoBase\Image\Cute-Bunny-Rabbit.jpg.jpg" />
+    <Content Include="InfoBase\Image\cute-little-owl-Wallpaper__yvt2.jpg.jpg" />
+    <Content Include="InfoBase\Image\hasdfhkaskdhbask.jpg" />
+    <Content Include="InfoBase\Image\image1.png.jpg" />
+    <Content Include="InfoBase\Image\sdvjsahvbdasvdj.jpg" />
+    <Content Include="InfoBase\Image\the_good__the_bad_and_the_innocence_by_alinamilitaru-d765bsi.jpg.jpg" />
+    <Content Include="InfoBase\InfoBase.csproj" />
+    <Content Include="InfoBase\NID_image\017762-blue-chrome-rain-icon-symbols-shapes-maximize-button.png.jpg" />
+    <Content Include="InfoBase\NID_image\10893595-teamwork-helping-logo.jpg.jpg" />
+    <Content Include="InfoBase\NID_image\2560x1600.jpg.jpg" />
+    <Content Include="InfoBase\NID_image\NID6705.jpg" />
+    <Content Include="InfoBase\obj\x86\Debug\InfoBase.csproj.FileListAbsolute.txt" />
+    <Content Include="InfoBase\obj\x86\Debug\InfoBase.exe" />
+    <Content Include="InfoBase\obj\x86\Debug\InfoBase.pdb" />
+    <Content Include="InfoBase\Pass_image\112395-glowing-green-neon-icon-symbols-shapes-circle-solid.png.jpg" />
+    <Content Include="InfoBase\Pass_image\2014-03-Blue-Wallpaper-73 %281%29.jpg.jpg" />
+    <Content Include="InfoBase\Pass_image\blueabstractbg2.jpg.jpg" />
+    <Content Include="InfoBase\Pass_image\Cute-Bunny-Rabbit.jpg.jpg" />
+    <Content Include="InfoBase\Pass_image\pass6705.jpg" />
+    <Content Include="InfoBase\Pass_image\pass999.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="InfoBase\bin\Debug\InfoBase.vshost.exe.manifest" />
+    <None Include="InfoBase\obj\x86\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="InfoBase\obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="InfoBase\obj\x86\Debug\GenerateResource.read.1.tlog" />
+    <None Include="InfoBase\obj\x86\Debug\GenerateResource.write.1.tlog" />
+    <None Include="InfoBase\obj\x86\Debug\ResolveAssemblyReference.cache" />
+    <None Include="InfoBase\Properties\Settings.settings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="InfoBase\bin\Release\" />
+    <Folder Include="InfoBase\obj\x86\Debug\TempPE\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>
